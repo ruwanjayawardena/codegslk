@@ -17,5 +17,6 @@
     "mdlzrusf",
     "Altria US",
     "PNGHK",
-    "Menu Masking"
+    "Menu Masking",
+    "abinbevbr"
 ]
