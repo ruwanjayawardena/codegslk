@@ -1,5 +1,5 @@
 [
-     "beiersdorfco(bdf_co)",
+    "beiersdorfco(bdf_co)",
     "beiersdorfchl(bdf_chl)",
     "png_mx",
     "png_us",
