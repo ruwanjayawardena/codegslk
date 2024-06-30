@@ -1,0 +1,21 @@
+[
+    "sanofi ES",
+    "PepsicoES",
+    "Beiersdorfco",
+    "PNG MX",
+    "PNGUS",
+    "PNGBR",
+    "Munchysmy",
+    "CCAAU",
+    "Woolwortau",
+    "Diageo US",
+    "DIAGEOTW",
+    "Sino TH",
+    "GSK JP",
+    "Beiersdorf IN",
+    "Kibon_BR",
+    "mdlzrusf",
+    "Altria US",
+    "PNGHK",
+    "Menu Masking"
+]
